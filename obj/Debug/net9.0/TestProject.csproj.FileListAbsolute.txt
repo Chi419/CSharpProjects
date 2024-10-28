@@ -1,0 +1,14 @@
+D:\Business Central Projects\Chiranga\CSharpProjects\bin\Debug\net9.0\TestProject.exe
+D:\Business Central Projects\Chiranga\CSharpProjects\bin\Debug\net9.0\TestProject.deps.json
+D:\Business Central Projects\Chiranga\CSharpProjects\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\Business Central Projects\Chiranga\CSharpProjects\bin\Debug\net9.0\TestProject.dll
+D:\Business Central Projects\Chiranga\CSharpProjects\bin\Debug\net9.0\TestProject.pdb
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.dll
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\refint\TestProject.dll
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.pdb
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\Business Central Projects\Chiranga\CSharpProjects\obj\Debug\net9.0\ref\TestProject.dll
