@@ -14,7 +14,7 @@ foreach (string fraOrderIDs in ordersID)
 string str = "The quick brown fox jumps over the lazy dog.";
 
 char[] charMessage = str.ToCharArray();
-//Array.Reverse(charMessage);
+Array.Reverse(charMessage);
 
 int x = 0;
 foreach (char i in charMessage)
@@ -25,8 +25,9 @@ foreach (char i in charMessage)
      }
 }
 
-//string new_message = new String(charMessage);
-//Console.WriteLine(new_message);
+string new_message = new String(charMessage);
+
+Console.WriteLine(new_message);
 Console.WriteLine($"'o' appears {x} times.");
 
 /* int[] inventory = [200, 450, 700, 175, 250];
